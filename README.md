@@ -1,6 +1,5 @@
-<a href="https://amzn.eu/d/gSENczG">pink</a>
-<hr>
-<a href="https://amzn.eu/d/gL0zt2p">colour</a>
+
+<a href="http://ajsingh.epizy.com" target="_blank" style="font-size:1.5em; color:#000; font-family:goldman; outline:none;">!'m HERE</a>
 <Hr>
 - 👋 Hi, I’m @Arvinderjeet
 - 👀 I’m interested in everything...
