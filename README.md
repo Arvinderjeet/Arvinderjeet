@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinderjeet&label=Profile%20views&color=0e75b6&style=flat" alt="arvinderjeet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinderjeet" alt="arvinderjeet" /></a> </p>
-
 - working on **python_mini_weird_projects()=>**
 
 - currently learning **C && Cybersecurity && Js;**
@@ -67,6 +65,7 @@
             height="40" /> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvinderjeet&show_icons=true&locale=en&layout=compact" alt="arvinderjeet" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arvinderjeet&show_icons=true&locale=en" alt="arvinderjeet" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvinderjeet&" alt="arvinderjeet" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinderjeet" alt="arvinderjeet" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arvinderjeet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arvinderjeet" /></a></p>
