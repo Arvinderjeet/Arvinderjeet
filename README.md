@@ -1,5 +1,5 @@
 <h1 align="center">Welcome !!! This is Arvinderjeet Singh</h1>
-<h3 align="center">Self taught Coder with hands on Python, C, and web development. Proven ability to apply technical skills to solve real-world problems. Seeking internships and full-time positions.<i>Education:</i> B.Tech in CSE, Cybersecurity Specialization, Shoolini university. <i>Extracurricular Activities</i> Cybersecurity Club, Hackathons and coding competitions.<br> results-oriented Strong work ethic Team player<br> Willing to go the extra mile</h3>
+<h3 align="center">Self taught Coder with hands on Python, C and C++, and web development. Proven ability to apply technical skills to solve real-world problems. Seeking internships and full-time positions.<br><i>Education:</i> B.Tech in CSE, Cybersecurity Specialization, Shoolini university. <i>Extracurricular Activities</i> Cybersecurity Club, Hackathons and coding competitions.<br> results-oriented Strong work ethic Team player<br> Willing to go the extra mile</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinderjeet&label=Profile%20views&color=0e75b6&style=flat" alt="arvinderjeet" /> </p> -->
 
