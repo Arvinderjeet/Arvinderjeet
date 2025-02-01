@@ -15,8 +15,6 @@
 
 - Just Telling you **i do talk always ^_^**
 
-[![roadmap.sh](https://roadmap.sh/card/wide/661d3d26c98b87c50569ec79?variant=light)](https://roadmap.sh)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/arvinderjeet-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arvinderjeet-singh" height="30" width="40" /></a>
