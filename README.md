@@ -1,4 +1,4 @@
-<p align="center">MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**</p>
+<p align="center">MAILTO: "arvinderjeet4@gmail.com" \ "arvinderjeet4@outlook.com"</p>
 
 <p align="center">
 <a href="https://codepen.io/arvinderjeet-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arvinderjeet-singh" height="30" width="40" /></a>
