@@ -1,19 +1,4 @@
-<h1 align="center">Welcome !!! This is Arvinderjeet Singh</h1>
-<h3 align="center">Self taught Coder with hands on Python, C and C++, and web development. Proven ability to apply technical skills to solve real-world problems. Seeking internships and full-time positions.<br><i>Education:</i> B.Tech in CSE, Cybersecurity Specialization, Shoolini university. <i>Extracurricular Activities</i> Cybersecurity Club, Hackathons and coding competitions.<br> results-oriented Strong work ethic Team player<br> Willing to go the extra mile</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinderjeet&label=Profile%20views&color=0e75b6&style=flat" alt="arvinderjeet" /> </p> -->
-
-- working on **python_mini_weird_projects()=>**
-
-- currently learning **C && Cybersecurity && Js;**
-
-- looking to collaborate in **logical_C_programmes()=>**
-
-- Ask me about **Python || SQL || Pandas && Numpy.**
-
-- MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**
-
-- Just Telling you **i do talk always ^_^**
+MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,8 +49,7 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
             height="40" /> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvinderjeet&show_icons=true&locale=en&layout=compact" alt="arvinderjeet" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arvinderjeet&show_icons=true&locale=en" alt="arvinderjeet" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvinderjeet&" alt="arvinderjeet" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinderjeet" alt="arvinderjeet" /></a> </p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arvinderjeet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arvinderjeet" /></a></p>
