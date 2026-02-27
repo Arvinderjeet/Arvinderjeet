@@ -1,7 +1,6 @@
-MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**
+<p align="center">MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/arvinderjeet-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arvinderjeet-singh" height="30" width="40" /></a>
 <a href="https://dev.to/arvinderjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arvinderjeet" height="30" width="40" /></a>
 <a href="https://twitter.com/ajsingh_o9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajsingh_o9" height="30" width="40" /></a>
@@ -15,9 +14,7 @@ MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**
 <a href="https://auth.geeksforgeeks.org/user/user/arvindebw69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/arvindebw69" height="30" width="40" /></a>
 <a href="https://discord.gg/781537167687155732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="781537167687155732" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
         href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
             src="https://img.icons8.com/?size=256&id=50ZQHdJTmPqw&format=png" alt="bash" width="40" height="40" /> </a>
@@ -51,5 +48,4 @@ MAILTO: **"arvinderjeet4@gmail.com \n arvinderjeet4@outlook.com"**
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arvinderjeet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arvinderjeet" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/arvinderjeet"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arvinderjeet" /></a></p>
